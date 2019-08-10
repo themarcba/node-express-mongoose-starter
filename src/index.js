@@ -13,5 +13,4 @@ app.use(express.static(publicPath))
 const port = process.env.PORT
 server.listen(port, () => {
     console.log(`Server started on port ${port}`);
-    
 })

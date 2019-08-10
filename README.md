@@ -5,13 +5,13 @@ This is a simple template to get started with Node.js + Express + MongoDB + Mong
 # Installation
 
 ```
-yarn install
+npm install
 ```
 
 # Running in development
 
 ```
-yarn dev
+npm run dev
 ```
 # Demo-ing the application
 
